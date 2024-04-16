@@ -1,0 +1,20 @@
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
+  /* Add some content at the bottom of the video/page */
+  .content {
+    position: fixed;
+    top: 0;
+    background-color: red;
+   color: blue;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+  }
+  
+ 
